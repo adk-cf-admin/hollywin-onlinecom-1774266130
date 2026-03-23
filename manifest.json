@@ -1,0 +1,19 @@
+{
+  "name": "HollyWin",
+  "short_name": "HollyWin",
+  "theme_color": "",
+  "background_color": "#18161A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774264527-favicon-12.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

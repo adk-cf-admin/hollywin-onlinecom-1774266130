@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://hollywin-online.com/
+Sitemap: https://hollywin-online.com/sitemap.xml
